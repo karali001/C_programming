@@ -1,4 +1,4 @@
-// ÖRNEK PROGRAMLAMA
+// Ã–RNEK PROGRAMLAMA
 
 
 #include<stdio.h>
