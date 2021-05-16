@@ -6,7 +6,7 @@ printf( "bir sayi giriniz:" );
 int sayi;
 scanf("%d",&sayi);
 if(sayi%5==0)
-printf("girilen sayi olan sayi5 e tam bölünür" );
+printf("girilen sayi olan sayi5 e tam bÃ¶lÃ¼nÃ¼r" );
 else
 printf("girilen  sayi 5 e tam bolunemez ?? " );
 
