@@ -1,17 +1,17 @@
-/*   ARİTMETİK İŞLEMLER*/
+/*   ARÄ°TMETÄ°K Ä°ÅLEMLER*/
 
 /* 
 x+y  =x ve y toplar
-x-y  =x ve y cıkarır
+x-y  =x ve y cÄ±karÄ±r
 x*y  =x ve y carpar
 x/y  =x ve y boler
-x%y  =x nin y gore modunu alır 
+x%y  =x nin y gore modunu alÄ±r 
 +x   =+ ile carpar
 -x   =- ile carpar
 */
 
 
-#include<stdio.h>/*printf komutunun calıması ıcın yazılacaktır*/
+#include<stdio.h>/*printf komutunun calÄ±masÄ± Ä±cÄ±n yazÄ±lacaktÄ±r*/
 
 int main(){
 	
@@ -26,10 +26,10 @@ int main(){
 	printf("%.5f\n", 12.39*7.85);
 	printf("%.5f\n", 12.39/7.85);
 	printf("%d\n", 12%9);
-/*burda kullanıdıgımız %.5f terımlerını bır oncekı dersımızde anlatmıstık burda anlamadıysanız bır oncekı dersı acıp kontrol edebılırsınız */
+/*burda kullanÄ±dÄ±gÄ±mÄ±z %.5f terÄ±mlerÄ±nÄ± bÄ±r oncekÄ± dersÄ±mÄ±zde anlatmÄ±stÄ±k burda anlamadÄ±ysanÄ±z bÄ±r oncekÄ± dersÄ± acÄ±p kontrol edebÄ±lÄ±rsÄ±nÄ±z */
   	printf("%d\n", -a);
 	printf("%d\n", +a);
 	
-	return 0;/*bıtırme komutudur*/
+	return 0;/*bÄ±tÄ±rme komutudur*/
 	
 }
